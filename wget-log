@@ -1,0 +1,8 @@
+HTTP request sent, awaiting response... 200 OK
+Length: 7 [text/plain]
+Saving to: '/Users/donttrust/.cache/ruby-install/truffleruby/stable.txt.part'
+
+     0K                                                       100%  273K=0s
+
+2022-12-01 12:28:24 (273 KB/s) - '/Users/donttrust/.cache/ruby-install/truffleruby/stable.txt.part' saved [7/7]
+
