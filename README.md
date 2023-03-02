@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi there 👋
 
 <!--
 **winnieepm/winnieepm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-Working on building my personal site!
+i'm currently working on building my personal site! thanks for waiting.
